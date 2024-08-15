@@ -1,0 +1,38 @@
+
+
+
+h1 {
+    font-size:2rem
+
+    
+
+}
+
+.socialicons {
+    text-align: center;
+    font-size: 2rem;
+
+
+}
+ul {
+    list-style-type: none;
+    text-align: center;
+   
+}
+footer {
+    background-color: black;
+/*     background-image: url(../images/peter-thomas-Z7gsrPiUzp4-unsplash.jpg); */
+    height: 50vh;
+    
+}
+p {
+    ;
+    text-align: center;
+    font-size: 0.75rem;
+
+
+
+}
+button {
+    display: block;
+}
