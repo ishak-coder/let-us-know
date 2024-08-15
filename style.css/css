@@ -10,7 +10,7 @@ h1 {
 
 .socialicons {
     text-align: center;
-    font-size: 2rem;
+    font-size: 4rem;
 
 
 }
@@ -35,4 +35,5 @@ p {
 }
 button {
     display: block;
+    background-color: aliceblue;
 }
